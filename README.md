@@ -1,5 +1,5 @@
 # PCRCB (V 1.1)
-P_ersonal_C_omputer_R_emote_C_ontrol_B_ot_
+P_ersonal_ C_omputer_ R_emote_ C_ontrol_ B_ot_
 
 Персональный телеграм бот для управления компьютером на растоянии.
 
