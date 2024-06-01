@@ -1,4 +1,4 @@
-# PCRCB (V 1.1)
+# PCRCB (V 1.3)
 P*ersonal*C*omputer*R*emote*C*ontrol*B*ot*
 
 Персональный телеграм бот для управления компьютером на растоянии.
