@@ -28,18 +28,12 @@ _Помощь с идеями:_ [**Chonnon**](https://t.me/wtflony)
 
 ## Зависимости
 
-_Позже добавлю список версий, с которыми бот будет работать_
-
   - **Python**
   - **telebot (pip install pyTelegramBotAPI)**
   - **PyAutoGui (pip install PyAutoGUI)**
   - **PSUtil (pip install psutil)**
-
-  _Код писался на версиях:_
-  - **Python v3.11.8**
-  - **telebot v4.18.1**
-  - **PyAutoGui v0.9.54**
-  - **PSUtil v5.9.8**
+  - **PyScreeze (pip install pyscreeze)**
+  - **Pillow (pip install pillow)**
 
 ## Как установить
 
