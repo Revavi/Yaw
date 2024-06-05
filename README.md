@@ -4,8 +4,8 @@ _Второе название:_
 
 Персональный телеграм бот для управления компьютером на растоянии.
 
-_Основной кодер:_ [**Revavi**](https://t.me/CleanVeins)
-_Помощь в разработке:_ [**msihek**](https://github.com/msihek)
+_Основной кодер:_ [**Revavi**](https://t.me/CleanVeins)  
+_Помощь в разработке:_ [**msihek**](https://github.com/msihek)  
 _Помощь с идеями:_ [**Chonnon**](https://t.me/wtflony)
 
 ## Команды бота
