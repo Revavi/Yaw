@@ -1,0 +1,11 @@
+flet>=0.23.2
+pystray>=0.19.5
+pillow>=10.2.0
+pywin32>=306
+pyTelegramBotAPI>=4.18.1
+psutil>=5.9.8
+PyAutoGUI>=0.9.54
+PyAudio>=0.2.14
+numpy>=2.0.0
+pycaw>=20240210
+PyScreeze>=0.1.30
