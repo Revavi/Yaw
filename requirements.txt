@@ -1,5 +1,0 @@
-pyTelegramBotAPI>=4.18.1
-PyScreeze>=0.1.30
-pillow>=10.2.0
-psutil>=5.9.8
-PyAutoGUI>=0.9.54
